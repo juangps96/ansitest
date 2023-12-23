@@ -2,7 +2,7 @@
 <html>
 <body>
 
-  <H1>The Cloud Brothers Default Demo Content</H1>
+  <H1>Demo Ansible y Terraform</H1>
   
   <p> Simple PHP Page that displays the date and day of the week </p>
   
